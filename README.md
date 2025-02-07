@@ -1,4 +1,4 @@
-# 🎨 Hyprland Wallpapers  
+# 🎨 Wallpapers  
 
 A personal collection of wallpapers that look great on **tiling window managers**, especially **Hyprland**.  
 
